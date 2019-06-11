@@ -8,7 +8,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/heartsoul/bimui.git"
+      "url": "git+https://github.com/heartsoul/react-native-bimui.git"
     },
     "keywords": [
       "bim",
@@ -21,9 +21,9 @@
     "author": "soul",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/heartsoul/bimui/issues"
+      "url": "https://github.com/heartsoul/react-native-bimui/issues"
     },
-    "homepage": "https://github.com/heartsoul/bimui#readme",
+    "homepage": "https://github.com/heartsoul/react-native-bimui#readme",
     "dependencies": {
       "prop-types": "^15.5.10",
       "teaset": ""

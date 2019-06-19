@@ -6,6 +6,8 @@ import { PixelRatio } from 'react-native'
 const primaryColor = '#007440'
 // secondary color
 const secondaryColor = '#83de6c'
+// third color
+const thirdColor = '#eafaff'
 // default color
 const defaultColor = '#fff'
 // default text color
